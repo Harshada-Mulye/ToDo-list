@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestPackage.testToDo" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-03-27T10:40:11" hostname="SDA-32-mbpro" time="0.005">
+  <properties/>
+  <testcase name="testGetTitle" classname="TestPackage.testToDo" time="0.001"/>
+  <testcase name="testAddSingleElement" classname="TestPackage.testToDo" time="0.0"/>
+  <testcase name="testDelereSingleElement" classname="TestPackage.testToDo" time="0.001"/>
+  <testcase name="testSetProjectName" classname="TestPackage.testToDo" time="0.0"/>
+  <testcase name="testGetProjectName" classname="TestPackage.testToDo" time="0.001"/>
+  <testcase name="testGetStatus" classname="TestPackage.testToDo" time="0.001"/>
+  <testcase name="testSetTitle" classname="TestPackage.testToDo" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
